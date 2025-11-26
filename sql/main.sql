@@ -1,0 +1,12 @@
+\i ./ddl/01_create_table_usuario.sql
+\i ./ddl/03_create_table_curso.sql
+\i ./ddl/06_create_table_periodo_letivo.sql
+\i ./ddl/07_create_table_regra_avaliacao.sql
+\i ./ddl/09_create_table_disciplina.sql
+\i ./ddl/02_create_table_aluno.sql
+\i ./ddl/05_create_table_administrador.sql
+\i ./ddl/08_create_table_professor.sql
+\i ./ddl/04_create_table_aluno_curso.sql
+\i ./ddl/10_create_table_professor_disciplina.sql
+\i ./ddl/11_create_table_avaliacao.sql
+\i ./ddl/12_create_table_nota.sql
