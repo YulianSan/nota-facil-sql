@@ -1,0 +1,12 @@
+\i dml/inserts/01_insert_usuario.sql
+\i dml/inserts/02_insert_aluno.sql
+\i dml/inserts/03_insert_administrador.sql
+\i dml/inserts/04_insert_professor.sql
+\i dml/inserts/05_insert_curso.sql
+\i dml/inserts/06_insert_aluno_curso.sql
+\i dml/inserts/07_insert_periodo_letivo.sql
+\i dml/inserts/08_insert_regra_avaliacao.sql
+\i dml/inserts/09_insert_disciplina.sql
+\i dml/inserts/10_insert_professor_disciplina.sql
+\i dml/inserts/11_insert_avaliacao.sql
+\i dml/inserts/12_insert_nota.sql
