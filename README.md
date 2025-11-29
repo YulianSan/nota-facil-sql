@@ -58,8 +58,8 @@ psql -U seu_usuario -d nome_do_banco -f insert.sql
 
 ```bash
 psql -U seu_usuario -d nome_do_banco -f ./sql/dml/selects/boletim_aluno.sql
-psql -U seu_usuario -d nome_do_banco -f./sql/dml/selects/notas_avaliacoes_aluno.sql
-psql -U seu_usuario -d nome_do_banco -f./sql/dml/selects/curso_com_mais_alunos.sql
+psql -U seu_usuario -d nome_do_banco -f ./sql/dml/selects/notas_avaliacoes_aluno.sql
+psql -U seu_usuario -d nome_do_banco -f ./sql/dml/selects/curso_com_mais_alunos.sql
 ```
 
 ## 5️⃣ Executar as Atualizações
